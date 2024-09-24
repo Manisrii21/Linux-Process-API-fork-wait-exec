@@ -43,7 +43,7 @@ int main(void)
 //printing the process ids
 	printf("The process id: %d\n",process_id);
 	printf("The process id of parent function: %d\n",p_process_id);
-	return 0;
+	return 0;
 }
 ```
 ## OUTPUT
